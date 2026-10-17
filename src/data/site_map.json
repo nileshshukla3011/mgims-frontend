@@ -1,0 +1,544 @@
+{
+ "groups": [
+  {
+   "title": "About MGIMS",
+   "links": [
+    {
+     "path": "/about-us/overview",
+     "title": "Vision & aims"
+    },
+    {
+     "path": "/about-us/history",
+     "title": "History & heritage"
+    },
+    {
+     "path": "/about-us/founder",
+     "title": "Our Founder (Dr. Sushila Nayar)"
+    },
+    {
+     "path": "/about-us/logo",
+     "title": "The MGIMS logo"
+    },
+    {
+     "path": "/about-us/why-mgims",
+     "title": "Why MGIMS & Gandhian principles"
+    },
+    {
+     "path": "/about-us/governance",
+     "title": "Governance & administration"
+    },
+    {
+     "path": "/about-us/annual-reports",
+     "title": "Annual reports archive"
+    },
+    {
+     "path": "/about-us/audit-statements",
+     "title": "Audited financial statements"
+    },
+    {
+     "path": "/about-us/pbcr",
+     "title": "Cancer registry (PBCR)"
+    },
+    {
+     "path": "/about-us/citizen-charter",
+     "title": "Citizen Charter"
+    },
+    {
+     "path": "/about-us/rti",
+     "title": "Right to Information (RTI)"
+    },
+    {
+     "path": "/about-us/compliance",
+     "title": "Statutory compliance & ICC"
+    },
+    {
+     "path": "/about-us/press-clippings",
+     "title": "Press clippings"
+    }
+   ]
+  },
+  {
+   "title": "Kasturba Hospital",
+   "links": [
+    {
+     "path": "/hospital/overview",
+     "title": "Hospital overview"
+    },
+    {
+     "path": "/hospital/emergency",
+     "title": "24x7 casualty & emergency"
+    },
+    {
+     "path": "/hospital/opd",
+     "title": "Outpatient services (OPD)"
+    },
+    {
+     "path": "/hospital/inpatient",
+     "title": "Inpatient care & wards"
+    },
+    {
+     "path": "/hospital/charges",
+     "title": "Hospital tariff & charges"
+    },
+    {
+     "path": "/hospital/investigations",
+     "title": "Diagnostic laboratories"
+    },
+    {
+     "path": "/hospital/specialities",
+     "title": "Super-specialty wings"
+    },
+    {
+     "path": "/hospital/health-insurance",
+     "title": "Health insurance schemes"
+    },
+    {
+     "path": "/hospital/low-cost-drug",
+     "title": "Low-cost generic drugs"
+    },
+    {
+     "path": "/hospital/arogyadham",
+     "title": "Arogyadham (integrative med)"
+    },
+    {
+     "path": "/hospital/melghat",
+     "title": "Melghat tribal hospital"
+    },
+    {
+     "path": "/hospital/information-technology",
+     "title": "Hospital IT & HIS"
+    },
+    {
+     "path": "/hospital/bmw",
+     "title": "Biomedical waste reports"
+    },
+    {
+     "path": "/hospital/blood-bank",
+     "title": "Blood bank availability"
+    }
+   ]
+  },
+  {
+   "title": "Academics",
+   "links": [
+    {
+     "path": "/academics/overview",
+     "title": "Academics overview"
+    },
+    {
+     "path": "/academics/mbbs",
+     "title": "MBBS degree course"
+    },
+    {
+     "path": "/academics/pg",
+     "title": "MD / MS postgraduate courses"
+    },
+    {
+     "path": "/academics/admissions",
+     "title": "Admissions & affiliation"
+    },
+    {
+     "path": "/academics/anti-ragging",
+     "title": "Anti-ragging committee & helpline"
+    },
+    {
+     "path": "/academics/meu",
+     "title": "Medical Education Unit"
+    },
+    {
+     "path": "/academics/iqac",
+     "title": "IQAC & ethics committee"
+    },
+    {
+     "path": "/academics/public-health",
+     "title": "School of Public Health"
+    },
+    {
+     "path": "/academics/skills-lab",
+     "title": "Centralized skills laboratory"
+    },
+    {
+     "path": "/academics/library",
+     "title": "Central library"
+    },
+    {
+     "path": "/academics/cme",
+     "title": "CMEs, conferences & workshops"
+    },
+    {
+     "path": "/academics/activities-conducted",
+     "title": "Academic activities conducted"
+    },
+    {
+     "path": "/academics/awards",
+     "title": "Awards & achievements"
+    },
+    {
+     "path": "/academics/student-life",
+     "title": "Student life, alumni & magazine"
+    },
+    {
+     "path": "/academics/results",
+     "title": "Examination results"
+    },
+    {
+     "path": "/academics/staff-lists",
+     "title": "Teaching & non-teaching staff"
+    }
+   ]
+  },
+  {
+   "title": "Research",
+   "links": [
+    {
+     "path": "/research/overview",
+     "title": "Research overview"
+    },
+    {
+     "path": "/research/institutional",
+     "title": "Funded research"
+    },
+    {
+     "path": "/research/publications",
+     "title": "Research publications"
+    },
+    {
+     "path": "/research/theses",
+     "title": "MD / MS and PhD theses"
+    },
+    {
+     "path": "/research/student-research",
+     "title": "Student research"
+    },
+    {
+     "path": "/research/paper-presentations",
+     "title": "Paper presentations"
+    },
+    {
+     "path": "/research/grants",
+     "title": "Research grants & GMLF"
+    },
+    {
+     "path": "/research/awards",
+     "title": "Dr PRJ Gangadharam Award"
+    }
+   ]
+  },
+  {
+   "title": "Accreditations and disclosures",
+   "links": [
+    {
+     "path": "/accreditations/naac",
+     "title": "NAAC, AQAR & SSR"
+    },
+    {
+     "path": "/accreditations/nirf",
+     "title": "NIRF ranking disclosures"
+    },
+    {
+     "path": "/accreditations/nmc",
+     "title": "NMC mandatory disclosures"
+    },
+    {
+     "path": "/accreditations/muhs",
+     "title": "MUHS mandate & affiliation"
+    }
+   ]
+  },
+  {
+   "title": "Community",
+   "links": [
+    {
+     "path": "/community/cbme",
+     "title": "Community based medical education"
+    },
+    {
+     "path": "/community/activities",
+     "title": "Community activities"
+    },
+    {
+     "path": "/community/social-impact",
+     "title": "Social impact"
+    },
+    {
+     "path": "/community/seva-bhaav",
+     "title": "Seva-Bhaav"
+    },
+    {
+     "path": "/community/cbcwd",
+     "title": "CBCWD"
+    },
+    {
+     "path": "/community/health-assurance",
+     "title": "Village health assurance"
+    }
+   ]
+  },
+  {
+   "title": "Departments",
+   "links": [
+    {
+     "path": "/departments",
+     "title": "All departments"
+    },
+    {
+     "path": "/departments/anaesthesiology",
+     "title": "Anaesthesiology"
+    },
+    {
+     "path": "/departments/anatomy",
+     "title": "Anatomy"
+    },
+    {
+     "path": "/departments/biochemistry",
+     "title": "Biochemistry"
+    },
+    {
+     "path": "/departments/chest-medicine",
+     "title": "Respiratory Medicine"
+    },
+    {
+     "path": "/departments/community-medicine",
+     "title": "Community Medicine"
+    },
+    {
+     "path": "/departments/dental-surgery",
+     "title": "Dental Surgery"
+    },
+    {
+     "path": "/departments/dermatology",
+     "title": "Dermatology"
+    },
+    {
+     "path": "/departments/forensic-medicine-and-toxicology",
+     "title": "Forensic Medicine and Toxicology"
+    },
+    {
+     "path": "/departments/games-and-sports",
+     "title": "Games and Sports"
+    },
+    {
+     "path": "/departments/medicine",
+     "title": "Medicine"
+    },
+    {
+     "path": "/departments/microbiology",
+     "title": "Microbiology"
+    },
+    {
+     "path": "/departments/neurosurgery",
+     "title": "Neurosurgery"
+    },
+    {
+     "path": "/departments/obstetrics-and-gynecology",
+     "title": "Obstetrics and Gynecology"
+    },
+    {
+     "path": "/departments/ophthalmology",
+     "title": "Ophthalmology"
+    },
+    {
+     "path": "/departments/orthopaedics",
+     "title": "Orthopaedics"
+    },
+    {
+     "path": "/departments/otolaryngology",
+     "title": "Otolaryngology (ENT)"
+    },
+    {
+     "path": "/departments/paediatrics",
+     "title": "Paediatrics"
+    },
+    {
+     "path": "/departments/pathology",
+     "title": "Pathology"
+    },
+    {
+     "path": "/departments/pharmacology",
+     "title": "Pharmacology"
+    },
+    {
+     "path": "/departments/physiology",
+     "title": "Physiology"
+    },
+    {
+     "path": "/departments/psychiatry",
+     "title": "Psychiatry"
+    },
+    {
+     "path": "/departments/radiodiagnosis",
+     "title": "Radiodiagnosis"
+    },
+    {
+     "path": "/departments/radiotherapy",
+     "title": "Radiotherapy (Radiation Oncology)"
+    },
+    {
+     "path": "/departments/surgery",
+     "title": "Surgery"
+    }
+   ]
+  },
+  {
+   "title": "For you",
+   "links": [
+    {
+     "path": "/patients",
+     "title": "For patients and visitors"
+    },
+    {
+     "path": "/students",
+     "title": "For students and applicants"
+    },
+    {
+     "path": "/faculty-staff",
+     "title": "For faculty and staff"
+    },
+    {
+     "path": "/visitors",
+     "title": "For the public, alumni and researchers"
+    },
+    {
+     "path": "/regulators",
+     "title": "For regulators: statutory disclosures"
+    }
+   ]
+  },
+  {
+   "title": "Online services",
+   "links": [
+    {
+     "path": "/patient-portal",
+     "title": "Patient Portal"
+    },
+    {
+     "path": "/student-portal",
+     "title": "Student Portal"
+    },
+    {
+     "path": "/fee-portal",
+     "title": "Fee Portal"
+    },
+    {
+     "path": "/contact/track",
+     "title": "Track an inquiry"
+    },
+    {
+     "path": "/alumni",
+     "title": "Alumni network"
+    }
+   ]
+  },
+  {
+   "title": "News, tenders and jobs",
+   "links": [
+    {
+     "path": "/news",
+     "title": "News, notices and CMEs"
+    },
+    {
+     "path": "/tenders",
+     "title": "Tenders"
+    },
+    {
+     "path": "/recruitment",
+     "title": "Recruitment"
+    }
+   ]
+  },
+  {
+   "title": "People",
+   "links": [
+    {
+     "path": "/faculty",
+     "title": "Faculty directory"
+    },
+    {
+     "path": "/academics/staff-lists",
+     "title": "Teaching and non-teaching staff"
+    }
+   ]
+  },
+  {
+   "title": "Help and policies",
+   "links": [
+    {
+     "path": "/contact",
+     "title": "Contact and telephone directory"
+    },
+    {
+     "path": "/feedback",
+     "title": "Feedback and surveys"
+    },
+    {
+     "path": "/help",
+     "title": "Help"
+    },
+    {
+     "path": "/accessibility-statement",
+     "title": "Accessibility statement"
+    },
+    {
+     "path": "/screen-reader-access",
+     "title": "Screen reader access"
+    },
+    {
+     "path": "/search",
+     "title": "Search"
+    },
+    {
+     "path": "/sitemap",
+     "title": "Sitemap"
+    },
+    {
+     "path": "/policies/privacy-policy",
+     "title": "Privacy Policy"
+    },
+    {
+     "path": "/policies/terms-and-conditions",
+     "title": "Terms & Conditions"
+    },
+    {
+     "path": "/policies/disclaimer",
+     "title": "Disclaimer"
+    },
+    {
+     "path": "/policies/hyperlinking-policy",
+     "title": "Hyperlinking Policy"
+    },
+    {
+     "path": "/policies/copyright-policy",
+     "title": "Copyright Policy"
+    },
+    {
+     "path": "/policies/faqs",
+     "title": "FAQs"
+    },
+    {
+     "path": "/policies/content-moderation-approval-policy",
+     "title": "Content Contribution, Moderation & Approval Policy"
+    },
+    {
+     "path": "/policies/content-archival-policy",
+     "title": "Content Archival Policy"
+    },
+    {
+     "path": "/policies/content-review-policy",
+     "title": "Content Review Policy"
+    },
+    {
+     "path": "/policies/website-monitoring-policy",
+     "title": "Website Monitoring Policy"
+    },
+    {
+     "path": "/policies/contingency-management-plan",
+     "title": "Contingency Management Plan"
+    },
+    {
+     "path": "/policies/security-policy",
+     "title": "Website Security Policy"
+    }
+   ]
+  }
+ ]
+}

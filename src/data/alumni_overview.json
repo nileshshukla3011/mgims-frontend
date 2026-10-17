@@ -1,0 +1,259 @@
+{
+  "source": "https://www.mgims.ac.in/index.php/alumni",
+  "lede": "In the 52 years of its existence, MGIMS has enrolled 3579 students (2204 men and 1555 women). Of them, 3078 doctors (1734 men and 1344 women) have graduated from the hallowed premises of MGIMS. Several MGIMS alumni have won accolades for excellence in professional and community leadership and service; many are known for their exemplary contributions to the academics and research or to humankind and have received national and international recognition.",
+  "enrolled": {
+    "total": 3579,
+    "men": 2204,
+    "women": 1555
+  },
+  "graduated": {
+    "total": 3078,
+    "men": 1734,
+    "women": 1344
+  },
+  "firstBatch": 1969,
+  "studying": [
+    {
+      "label": "Studying for their MBBS at MGIMS",
+      "count": 400
+    },
+    {
+      "label": "Doing internship or preparing for NEET",
+      "count": 96
+    },
+    {
+      "label": "Doing post-graduation at MGIMS",
+      "count": 7
+    },
+    {
+      "label": "Doing post-graduation elsewhere",
+      "count": 160
+    }
+  ],
+  "postgraduation": {
+    "fromClass": 1969,
+    "toClass": 2009,
+    "atMgims": 1250,
+    "elsewhere": 835,
+    "notPursued": 581
+  },
+  "specialties": [
+    {
+      "label": "Gynaecologists",
+      "count": 294
+    },
+    {
+      "label": "Paediatricians",
+      "count": 224
+    },
+    {
+      "label": "Surgeons",
+      "count": 215
+    },
+    {
+      "label": "Anaesthesiologists",
+      "count": 200
+    },
+    {
+      "label": "Physicians",
+      "count": 176
+    },
+    {
+      "label": "General Practitioners",
+      "count": 165
+    },
+    {
+      "label": "Radiologists",
+      "count": 153
+    },
+    {
+      "label": "Ophthalmologists",
+      "count": 151
+    },
+    {
+      "label": "Orthopedic surgeons",
+      "count": 146
+    },
+    {
+      "label": "Pathologists",
+      "count": 129
+    },
+    {
+      "label": "Public Health Specialists",
+      "count": 106
+    },
+    {
+      "label": "Otorhinolaryngologists",
+      "count": 70
+    },
+    {
+      "label": "Psychiatrists",
+      "count": 44
+    },
+    {
+      "label": "Dermatologists",
+      "count": 34
+    },
+    {
+      "label": "Pharmacology",
+      "count": 29
+    },
+    {
+      "label": "Microbiology",
+      "count": 25
+    },
+    {
+      "label": "Cardiologists",
+      "count": 22
+    },
+    {
+      "label": "Forensic Medicine Experts",
+      "count": 21
+    },
+    {
+      "label": "Oncologists",
+      "count": 15
+    },
+    {
+      "label": "Radiation Oncologists",
+      "count": 15
+    },
+    {
+      "label": "Physiology (MD)",
+      "count": 15
+    },
+    {
+      "label": "Family Medicine",
+      "count": 15
+    },
+    {
+      "label": "Intensivists",
+      "count": 13
+    },
+    {
+      "label": "Neurologists",
+      "count": 11
+    },
+    {
+      "label": "Plastic Surgeons",
+      "count": 9
+    },
+    {
+      "label": "Endocrinologists",
+      "count": 9
+    },
+    {
+      "label": "Biochemistry",
+      "count": 9
+    },
+    {
+      "label": "Anatomy",
+      "count": 8
+    },
+    {
+      "label": "Neurosurgeons",
+      "count": 7
+    },
+    {
+      "label": "Gastroenterologists",
+      "count": 7
+    },
+    {
+      "label": "Cardiac Surgeons",
+      "count": 6
+    },
+    {
+      "label": "Nephrologists",
+      "count": 6
+    },
+    {
+      "label": "Hospital Administration",
+      "count": 6
+    }
+  ],
+  "otherPaths": [
+    "Indian Administrative Services",
+    "Biomedical Engineering",
+    "Pharma Industry",
+    "Sports Medicine",
+    "Hospital Administration"
+  ],
+  "countries": [
+    {
+      "label": "United States of America",
+      "count": 128
+    },
+    {
+      "label": "United Kingdom",
+      "count": 77
+    },
+    {
+      "label": "United Arab Emirates",
+      "count": 25
+    },
+    {
+      "label": "Australia",
+      "count": 20
+    },
+    {
+      "label": "Canada",
+      "count": 14
+    },
+    {
+      "label": "Sultanate of Oman",
+      "count": 9
+    },
+    {
+      "label": "New Zealand",
+      "count": 9
+    },
+    {
+      "label": "Kingdom of Saudi Arabia",
+      "count": 6
+    },
+    {
+      "label": "Singapore",
+      "count": 5
+    },
+    {
+      "label": "Maldives",
+      "count": 5
+    },
+    {
+      "label": "Denmark",
+      "count": 4
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "count": 2
+    },
+    {
+      "label": "Nepal",
+      "count": 2
+    }
+  ],
+  "countriesNote": "Twenty alumni are in 20 other countries, each.",
+  "states": [
+    {
+      "label": "Maharashtra",
+      "count": 1792
+    },
+    {
+      "label": "New Delhi",
+      "count": 194
+    },
+    {
+      "label": "Haryana",
+      "count": 145
+    },
+    {
+      "label": "Uttar Pradesh",
+      "count": 130
+    },
+    {
+      "label": "Punjab",
+      "count": 56
+    }
+  ],
+  "closing": "We like to put the spotlight on alumni achievements - in their careers, in the contribution they have made to their communities, to education or to culture. At MGIMS, we are proud of our alumni and the difference they have made in the world."
+}

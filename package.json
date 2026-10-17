@@ -1,0 +1,42 @@
+{
+  "name": "mgims-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:admin": "vite --config vite.admin.config.ts",
+    "build": "node scripts/generate-sitemap.mjs && tsc -b && vite build && node scripts/prerender-meta.mjs && vite build --config vite.admin.config.ts",
+    "build:admin": "tsc -b && vite build --config vite.admin.config.ts",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "preview:admin": "vite preview --config vite.admin.config.ts",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "test": "vitest run",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans": "5.3.0",
+    "@fontsource/noto-sans-devanagari": "5.3.0",
+    "@tailwindcss/vite": "4.3.3",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.13.0",
+    "@playwright/test": "1.64.1",
+    "@types/node": "24.19.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.2",
+    "autoprefixer": "10.6.1",
+    "lucide-react": "1.54.0",
+    "oxlint": "1.87.0",
+    "postcss": "8.5.29",
+    "react-router-dom": "7.18.4",
+    "tailwindcss": "4.3.3",
+    "typescript": "6.0.3",
+    "vite": "8.3.4",
+    "vitest": "5.0.4"
+  }
+}

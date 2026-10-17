@@ -1,0 +1,53 @@
+# Checks for the MGIMS website and admin console on every push to main and every pull request.
+name: Frontend
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm run lint
+      - name: Type-check
+        run: npx tsc -b
+      - name: Unit tests
+        run: npm test
+
+      # The live build must not contain any demo code or demo data (they are only for demo mode).
+      - name: Live build has no demo code
+        run: |
+          VITE_USE_MOCK_API=false VITE_API_BASE_URL=/api npx vite build --outDir "$RUNNER_TEMP/live" --emptyOutDir
+          VITE_USE_MOCK_API=false VITE_API_BASE_URL=/api npx vite build --config vite.admin.config.ts --outDir "$RUNNER_TEMP/live-admin" --emptyOutDir
+          if ls "$RUNNER_TEMP/live/assets" "$RUNNER_TEMP/live-admin/assets" | grep -i mock; then echo "Demo modules in the live build"; exit 1; fi
+
+      # Demo build for the browser tests. The demo password exists only in this test build, which is never deployed.
+      - name: Demo build
+        run: npm run build
+        env:
+          VITE_ADMIN_DEMO_PASSWORD: demo123
+
+      - name: Browser tests
+        run: |
+          npx playwright install --with-deps chromium
+          npm run test:e2e
+        env:
+          CI: true
+
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: playwright-report
+          path: playwright-report
+          retention-days: 14
